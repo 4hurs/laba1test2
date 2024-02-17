@@ -1,0 +1,10 @@
+^C:\USERS\USER\ONEDRIVE\РАБОЧИЙ СТОЛ\LABA1TEST2\CMAKE1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/User/OneDrive/Рабочий стол/laba1test2/CMake1" "-BC:/Users/User/OneDrive/Рабочий стол/laba1test2/NewRes1" --check-stamp-file "C:/Users/User/OneDrive/Рабочий стол/laba1test2/NewRes1/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
