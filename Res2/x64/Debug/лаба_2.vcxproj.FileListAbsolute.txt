@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Рабочий стол\лаба_2\x64\Debug\лаба_2.exe
+C:\Users\User\OneDrive\Рабочий стол\вижак\лабы\лаба_2\x64\Debug\лаба_2.exe
+C:\Users\User\OneDrive\Рабочий стол\вижак\лабы\лаба 2\x64\Debug\лаба_2.exe
+C:\Users\User\OneDrive\Рабочий стол\прога\visual studio (не входи если хочешь жить)\лабы\лаба 2\x64\Debug\лаба_2.exe
